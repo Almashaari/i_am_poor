@@ -1,16 +1,21 @@
-# i_am_poor
+# I Am Poor
 
-A new Flutter project.
+A simple Flutter application that demonstrates a basic UI with an image.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Flutter](https://flutter.dev) installed on your computer.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+From your command line:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+# Clone this repository
+git clone https://github.com/almashaari/i_am_poor.git
+
+# Navigate into the repository
+cd i_am_poor/
+
+# Run the app
+flutter run
